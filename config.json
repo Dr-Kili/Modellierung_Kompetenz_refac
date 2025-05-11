@@ -1,0 +1,32 @@
+
+{
+    "name": "competence-circuit-analysis",
+    "version": "1.0.0",
+    "description": "Analyse des Kompetenz-Schaltkreises in Bacillus subtilis",
+    "main": "run_analysis.py",
+    "scripts": {
+      "start": "python run_analysis.py",
+      "test": "pytest",
+      "simulate": "python run_analysis.py --simulate",
+      "analyze": "python run_analysis.py --analyze",
+      "visualize": "python run_analysis.py --visualize"
+    },
+    "dependencies": {
+      "python": "3.9.2",
+      "numpy": "1.26.4",
+      "matplotlib": "3.8.4",
+      "scipy": "1.13.1",
+      "pandas": "2.2.0",
+      "h5py": "3.10.0"
+    },
+    "devDependencies": {
+      "pytest": "7.4.0",
+      "black": "23.3.0",
+      "isort": "5.12.0",
+      "flake8": "6.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Dr-Kili/Modellierung_Kompetenz_refac"
+    }
+  }
