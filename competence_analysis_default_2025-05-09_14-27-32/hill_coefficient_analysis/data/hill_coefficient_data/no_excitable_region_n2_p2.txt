@@ -1,0 +1,4 @@
+No excitable configurations for n=2, p=2
+=================================================================
+
+No excitable configurations found in either standard or extended range.

@@ -1,0 +1,13 @@
+High ComK Basal (2x)
+====================
+
+Number of competence events: 216
+Mean duration: 21.10
+Median duration: 15.86
+Standard deviation of duration: 19.29
+Coefficient of variation (duration): 0.91
+Mean rise time: 13.59
+Median rise time: 10.67
+Standard deviation of rise time: 13.05
+Coefficient of variation (rise time): 0.96
+Probability of initiation: 4.3200

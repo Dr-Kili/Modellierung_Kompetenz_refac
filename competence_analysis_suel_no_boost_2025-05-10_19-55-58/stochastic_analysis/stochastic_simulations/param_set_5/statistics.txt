@@ -1,0 +1,13 @@
+Low ComS Expression (0.75x)
+===========================
+
+Number of competence events: 116
+Mean duration: 21.13
+Median duration: 16.97
+Standard deviation of duration: 18.20
+Coefficient of variation (duration): 0.86
+Mean rise time: 13.82
+Median rise time: 10.31
+Standard deviation of rise time: 11.93
+Coefficient of variation (rise time): 0.86
+Probability of initiation: 2.3200

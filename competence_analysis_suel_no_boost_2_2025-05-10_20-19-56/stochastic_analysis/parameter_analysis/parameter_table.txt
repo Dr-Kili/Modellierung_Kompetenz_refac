@@ -1,0 +1,53 @@
+Parameter Sets for Stochastic Simulations
+========================================
+
+1. Standard Parameters
+   Description: Similar to Standard
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.004
+   bk (ComK feedback): 0.07
+   bs (ComS expression): 0.82
+   k0 (ComK activation): 0.2
+   k1 (ComS repression): 0.222
+
+2. High ComK Basal (2x)
+   Description: High ComK Basal
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.008
+   bk (ComK feedback): 0.07
+   bs (ComS expression): 0.82
+   k0 (ComK activation): 0.2
+   k1 (ComS repression): 0.222
+
+3. High ComK Feedback (1.5x)
+   Description: High ComK Feedback
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.004
+   bk (ComK feedback): 0.10500000000000001
+   bs (ComS expression): 0.82
+   k0 (ComK activation): 0.2
+   k1 (ComS repression): 0.222
+
+4. High ComS Expression (1.5x)
+   Description: High ComS Expression
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.004
+   bk (ComK feedback): 0.07
+   bs (ComS expression): 1.23
+   k0 (ComK activation): 0.2
+   k1 (ComS repression): 0.222
+
+5. Low ComS Expression (0.75x)
+   Description: Low ComS Expression
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.004
+   bk (ComK feedback): 0.07
+   bs (ComS expression): 0.615
+   k0 (ComK activation): 0.2
+   k1 (ComS repression): 0.222
+

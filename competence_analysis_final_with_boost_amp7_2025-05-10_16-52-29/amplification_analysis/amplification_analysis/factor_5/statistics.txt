@@ -1,0 +1,16 @@
+Amplification Factor: 5
+============================
+
+Number of simulations: 100
+Total competence events: 109
+Duration Statistics:
+  Mean: 12.28
+  Median: 10.42
+  Standard deviation: 7.55
+  Coefficient of variation: 0.61
+
+Rise Time Statistics:
+  Mean: 7.14
+  Median: 5.97
+  Standard deviation: 4.70
+  Coefficient of variation: 0.66

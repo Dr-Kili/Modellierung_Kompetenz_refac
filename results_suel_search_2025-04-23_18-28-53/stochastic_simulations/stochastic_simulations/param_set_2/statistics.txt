@@ -1,0 +1,21 @@
+Niedrige ComS-Expression
+========================
+
+Number of simulations: 20
+Total competence events: 53
+Mean duration: 15.82
+Standard deviation of duration: 11.18
+Coefficient of variation (duration): 0.71
+Mean rise time: 10.01
+Standard deviation of rise time: 7.85
+Coefficient of variation (rise time): 0.79
+Probability of initiation: 2.6500
+
+Parameters:
+  ak: 0.004
+  bk: 0.09595959595959597
+  bs: 0.7575757575757576
+  k0: 0.2
+  k1: 0.222
+  n: 2
+  p: 5

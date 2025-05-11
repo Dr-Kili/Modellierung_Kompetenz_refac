@@ -1,0 +1,21 @@
+Schwaches ComK-Feedback
+=======================
+
+Number of simulations: 20
+Total competence events: 21
+Mean duration: 13.89
+Standard deviation of duration: 11.12
+Coefficient of variation (duration): 0.80
+Mean rise time: 8.39
+Standard deviation of rise time: 6.82
+Coefficient of variation (rise time): 0.81
+Probability of initiation: 1.0500
+
+Parameters:
+  ak: 0.004
+  bk: 0.05404040404040404
+  bs: 0.8505050505050504
+  k0: 0.2
+  k1: 0.222
+  n: 2
+  p: 5

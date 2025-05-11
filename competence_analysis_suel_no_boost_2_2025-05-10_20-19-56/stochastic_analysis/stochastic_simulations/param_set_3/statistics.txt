@@ -1,0 +1,13 @@
+High ComK Feedback (1.5x)
+=========================
+
+Number of competence events: 251
+Mean duration: 22.33
+Median duration: 17.23
+Standard deviation of duration: 19.37
+Coefficient of variation (duration): 0.87
+Mean rise time: 14.36
+Median rise time: 11.40
+Standard deviation of rise time: 12.89
+Coefficient of variation (rise time): 0.90
+Probability of initiation: 5.0200

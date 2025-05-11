@@ -1,0 +1,150 @@
+Erregbare Parameter-Konfigurationen im Suel et al. Bereich
+===================================================
+
+Insgesamt gefundene Konfigurationen: 61
+
+bs-Bereich: [0.7576, 0.8505], Mittelwert: 0.8092
+bk-Bereich: [0.0540, 0.0970], Mittelwert: 0.0755
+
+Einzelne Parameter-Konfigurationen:
+Konfiguration 1:
+  bs = 0.757576, bk = 0.095960
+  Fixpunkte: 3
+    FP1: (0.0215, 3.1919) - Stabiler Knoten
+    FP2: (0.1162, 3.0023) - Instabiler Fokus
+    FP3: (0.1034, 3.1617) - Sattelpunkt
+
+Konfiguration 2:
+  bs = 0.757576, bk = 0.096465
+  Fixpunkte: 3
+    FP1: (0.0215, 3.1921) - Stabiler Knoten
+    FP2: (0.1196, 2.9472) - Instabiler Fokus
+    FP3: (0.1000, 3.1933) - Sattelpunkt
+
+Konfiguration 3:
+  bs = 0.757576, bk = 0.096970
+  Fixpunkte: 3
+    FP1: (0.0215, 3.1922) - Stabiler Knoten
+    FP2: (0.1221, 2.9039) - Instabiler Fokus
+    FP3: (0.0975, 3.2134) - Sattelpunkt
+
+Konfiguration 4:
+  bs = 0.761616, bk = 0.093939
+  Fixpunkte: 3
+    FP1: (0.0219, 3.2649) - Stabiler Knoten
+    FP2: (0.1109, 3.1402) - Instabiler Fokus
+    FP3: (0.1075, 3.1835) - Sattelpunkt
+
+Konfiguration 5:
+  bs = 0.761616, bk = 0.094444
+  Fixpunkte: 3
+    FP1: (0.0220, 3.2650) - Stabiler Knoten
+    FP2: (0.1168, 3.0515) - Instabiler Fokus
+    FP3: (0.1014, 3.2477) - Sattelpunkt
+
+Konfiguration 6:
+  bs = 0.761616, bk = 0.095455
+  Fixpunkte: 3
+    FP1: (0.0221, 3.2653) - Stabiler Knoten
+    FP2: (0.1222, 2.9581) - Instabiler Fokus
+    FP3: (0.0960, 3.2928) - Sattelpunkt
+
+Konfiguration 7:
+  bs = 0.761616, bk = 0.095960
+  Fixpunkte: 3
+    FP1: (0.0221, 3.2655) - Stabiler Knoten
+    FP2: (0.1242, 2.9207) - Instabiler Fokus
+    FP3: (0.0940, 3.3066) - Sattelpunkt
+
+Konfiguration 8:
+  bs = 0.761616, bk = 0.096465
+  Fixpunkte: 3
+    FP1: (0.0222, 3.2656) - Stabiler Knoten
+    FP2: (0.1259, 2.8864) - Instabiler Fokus
+    FP3: (0.0922, 3.3174) - Sattelpunkt
+
+Konfiguration 9:
+  bs = 0.765657, bk = 0.094444
+  Fixpunkte: 3
+    FP1: (0.0227, 3.3412) - Stabiler Knoten
+    FP2: (0.1242, 2.9768) - Instabiler Fokus
+    FP3: (0.0926, 3.3875) - Sattelpunkt
+
+Konfiguration 10:
+  bs = 0.765657, bk = 0.094949
+  Fixpunkte: 3
+    FP1: (0.0227, 3.3414) - Stabiler Knoten
+    FP2: (0.1259, 2.9425) - Instabiler Fokus
+    FP3: (0.0908, 3.3977) - Sattelpunkt
+
+Konfiguration 11:
+  bs = 0.785859, bk = 0.083838
+  Fixpunkte: 3
+    FP1: (0.0257, 3.7636) - Stabiler Knoten
+    FP2: (0.1095, 3.5824) - Instabiler Fokus
+    FP3: (0.1000, 3.7147) - Sattelpunkt
+
+Konfiguration 12:
+  bs = 0.789899, bk = 0.083838
+  Fixpunkte: 3
+    FP1: (0.0267, 3.8597) - Stabiler Knoten
+    FP2: (0.1193, 3.4692) - Instabiler Fokus
+    FP3: (0.0884, 3.9061) - Sattelpunkt
+
+Konfiguration 13:
+  bs = 0.793939, bk = 0.083838
+  Fixpunkte: 3
+    FP1: (0.0280, 3.9601) - Stabiler Knoten
+    FP2: (0.1243, 3.4187) - Instabiler Fokus
+    FP3: (0.0812, 4.0376) - Sattelpunkt
+
+Konfiguration 14:
+  bs = 0.802020, bk = 0.081818
+  Fixpunkte: 3
+    FP1: (0.0305, 4.1735) - Stabiler Knoten
+    FP2: (0.1269, 3.4906) - Instabiler Fokus
+    FP3: (0.0743, 4.2615) - Sattelpunkt
+
+Konfiguration 15:
+  bs = 0.806061, bk = 0.075253
+  Fixpunkte: 3
+    FP1: (0.0301, 4.2803) - Stabiler Knoten
+    FP2: (0.1081, 4.0367) - Instabiler Fokus
+    FP3: (0.0928, 4.2612) - Sattelpunkt
+
+Konfiguration 16:
+  bs = 0.806061, bk = 0.079293
+  Fixpunkte: 3
+    FP1: (0.0314, 4.2856) - Stabiler Knoten
+    FP2: (0.1243, 3.6389) - Instabiler Fokus
+    FP3: (0.0750, 4.3688) - Sattelpunkt
+
+Konfiguration 17:
+  bs = 0.806061, bk = 0.079798
+  Fixpunkte: 3
+    FP1: (0.0316, 4.2864) - Stabiler Knoten
+    FP2: (0.1256, 3.6015) - Instabiler Fokus
+    FP3: (0.0736, 4.3719) - Sattelpunkt
+
+Konfiguration 18:
+  bs = 0.810101, bk = 0.073232
+  Fixpunkte: 3
+    FP1: (0.0311, 4.3974) - Stabiler Knoten
+    FP2: (0.1049, 4.1928) - Instabiler Fokus
+    FP3: (0.0941, 4.3538) - Sattelpunkt
+
+Konfiguration 19:
+  bs = 0.810101, bk = 0.073737
+  Fixpunkte: 3
+    FP1: (0.0313, 4.3981) - Stabiler Knoten
+    FP2: (0.1094, 4.1049) - Instabiler Fokus
+    FP3: (0.0894, 4.4016) - Sattelpunkt
+
+Konfiguration 20:
+  bs = 0.810101, bk = 0.076263
+  Fixpunkte: 3
+    FP1: (0.0322, 4.4019) - Stabiler Knoten
+    FP2: (0.1201, 3.8398) - Instabiler Fokus
+    FP3: (0.0776, 4.4741) - Sattelpunkt
+
+... und 41 weitere Konfigurationen.

@@ -1,0 +1,13 @@
+Standard Parameters
+===================
+
+Number of competence events: 112
+Mean duration: 15.50
+Median duration: 11.48
+Standard deviation of duration: 13.23
+Coefficient of variation (duration): 0.85
+Mean rise time: 9.81
+Median rise time: 7.16
+Standard deviation of rise time: 9.45
+Coefficient of variation (rise time): 0.96
+Probability of initiation: 2.2400

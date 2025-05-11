@@ -1,0 +1,16 @@
+Boundaries of Extended Excitable Region for n=3, p=2
+=================================================================
+
+bs_min: 0.836735
+bs_max: 0.914286
+bs_range: 0.077551
+
+bk_min: 0.163878
+bk_max: 0.169796
+bk_range: 0.005918
+
+Area: 0.000459
+Number of excitable configurations: 3
+
+Note: These results are from an extended search in the range
+bs: [0.1, 2.0], bk: [0.01, 0.3]

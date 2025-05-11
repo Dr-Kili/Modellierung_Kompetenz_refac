@@ -1,0 +1,18 @@
+Ausgewählte repräsentative Konfigurationen
+=========================================
+
+Standard:
+  bs = 0.820000, bk = 0.070000
+
+Niedrige ComS-Expression:
+  bs = 0.757576, bk = 0.095960
+
+Hohe ComS-Expression:
+  bs = 0.850505, bk = 0.054040
+
+Schwaches ComK-Feedback:
+  bs = 0.850505, bk = 0.054040
+
+Starkes ComK-Feedback:
+  bs = 0.757576, bk = 0.096970
+

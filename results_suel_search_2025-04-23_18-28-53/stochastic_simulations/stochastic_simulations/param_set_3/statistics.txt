@@ -1,0 +1,21 @@
+Hohe ComS-Expression
+====================
+
+Number of simulations: 20
+Total competence events: 23
+Mean duration: 16.50
+Standard deviation of duration: 11.30
+Coefficient of variation (duration): 0.69
+Mean rise time: 9.40
+Standard deviation of rise time: 6.81
+Coefficient of variation (rise time): 0.72
+Probability of initiation: 1.1500
+
+Parameters:
+  ak: 0.004
+  bk: 0.05404040404040404
+  bs: 0.8505050505050504
+  k0: 0.2
+  k1: 0.222
+  n: 2
+  p: 5

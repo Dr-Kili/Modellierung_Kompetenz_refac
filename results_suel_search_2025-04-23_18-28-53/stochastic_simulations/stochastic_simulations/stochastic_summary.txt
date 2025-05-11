@@ -1,0 +1,9 @@
+Stochastische Simulationsergebnisse
+==================================
+
+Parameter Set	Dauer	Anstieg	Dauer CV	Anstieg CV	Initiierung	Anstieg/Dauer
+Standard	15.29	10.27	0.78	0.92	2.5500	0.67
+Niedrige ComS-Expression	15.82	10.01	0.71	0.79	2.6500	0.63
+Hohe ComS-Expression	16.50	9.40	0.69	0.72	1.1500	0.57
+Schwaches ComK-Feedback	13.89	8.39	0.80	0.81	1.0500	0.60
+Starkes ComK-Feedback	14.90	8.93	0.70	0.74	3.5000	0.60

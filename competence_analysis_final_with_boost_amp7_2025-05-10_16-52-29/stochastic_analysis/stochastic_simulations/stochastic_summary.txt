@@ -1,0 +1,19 @@
+Stochastic Simulation Results
+==========================
+
+Parameter Set	Median Duration	Duration CV	Median Rise	Rise CV	Initiation
+Standard Parameters	11.48	0.85	7.16	0.96	2.2400
+Excitable Config 1	57.65	0.92	19.51	1.11	4.0600
+Excitable Config 2	29.95	0.77	15.52	0.79	4.5800
+Excitable Config 3	26.94	0.66	14.45	0.65	1.6200
+Excitable Config 4	45.67	0.78	21.03	0.82	4.2200
+Excitable Config 5	62.53	0.52	34.92	0.49	0.5000
+Excitable Config 6	31.88	0.63	21.22	0.62	2.7800
+Excitable Config 7	28.59	0.62	16.46	0.61	2.5800
+Excitable Config 8	23.11	0.67	11.82	0.74	5.3800
+Excitable Config 9	66.95	0.68	25.19	0.79	2.1200
+Excitable Config 10	72.56	0.70	26.33	0.68	1.8200
+High ComK Basal (2x)	12.68	0.77	8.15	0.75	2.5600
+High ComK Feedback (1.5x)	10.40	0.84	6.08	0.87	4.5200
+High ComS Expression (1.5x)	14.81	0.71	9.13	0.77	4.7400
+Low ComS Expression (0.75x)	11.10	0.79	7.12	0.80	0.9800

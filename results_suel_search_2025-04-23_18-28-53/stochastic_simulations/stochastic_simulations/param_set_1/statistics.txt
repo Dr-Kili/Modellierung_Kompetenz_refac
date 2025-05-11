@@ -1,0 +1,21 @@
+Standard
+========
+
+Number of simulations: 20
+Total competence events: 51
+Mean duration: 15.29
+Standard deviation of duration: 11.96
+Coefficient of variation (duration): 0.78
+Mean rise time: 10.27
+Standard deviation of rise time: 9.44
+Coefficient of variation (rise time): 0.92
+Probability of initiation: 2.5500
+
+Parameters:
+  ak: 0.004
+  bk: 0.07
+  bs: 0.82
+  k0: 0.2
+  k1: 0.222
+  n: 2
+  p: 5

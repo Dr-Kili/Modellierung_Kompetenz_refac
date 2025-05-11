@@ -1,0 +1,13 @@
+Excitable Config 2
+==================
+
+Number of competence events: 154
+Mean duration: 38.41
+Median duration: 30.05
+Standard deviation of duration: 29.35
+Coefficient of variation (duration): 0.76
+Mean rise time: 15.46
+Median rise time: 13.06
+Standard deviation of rise time: 10.80
+Coefficient of variation (rise time): 0.70
+Probability of initiation: 3.0800

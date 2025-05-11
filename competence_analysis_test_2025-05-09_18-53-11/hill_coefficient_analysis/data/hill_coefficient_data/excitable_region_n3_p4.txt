@@ -1,0 +1,13 @@
+Boundaries of Excitable Region for n=3, p=4
+=================================================================
+
+bs_min: 0.877551
+bs_max: 0.893878
+bs_range: 0.016327
+
+bk_min: 0.080612
+bk_max: 0.091837
+bk_range: 0.011224
+
+Area: 0.000183
+Number of excitable configurations: 6

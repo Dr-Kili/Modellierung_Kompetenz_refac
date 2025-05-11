@@ -1,0 +1,6 @@
+Parameter Set,Description,n,p,ak,bk,bs,k0,k1
+Standard Parameters,Similar to Standard,2,5,0.004,0.07,0.82,0.2,0.222
+High ComK Basal (2x),High ComK Basal,2,5,0.008,0.07,0.82,0.2,0.222
+High ComK Feedback (1.5x),High ComK Feedback,2,5,0.004,0.10500000000000001,0.82,0.2,0.222
+High ComS Expression (1.5x),High ComS Expression,2,5,0.004,0.07,1.23,0.2,0.222
+Low ComS Expression (0.75x),Low ComS Expression,2,5,0.004,0.07,0.615,0.2,0.222

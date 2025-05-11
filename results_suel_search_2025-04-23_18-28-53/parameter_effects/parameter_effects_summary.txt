@@ -1,0 +1,18 @@
+Zusammenfassung der Parametereffekte
+==================================
+
+Name	bs	bk	Kompetenzdauer	Anstiegszeit	Initiierung
+Standard	0.8200	0.0700	15.29	10.27	2.5500
+Niedrige ComS-Expression	0.7576	0.0960	15.82	10.01	2.6500
+Hohe ComS-Expression	0.8505	0.0540	16.50	9.40	1.1500
+Schwaches ComK-Feedback	0.8505	0.0540	13.89	8.39	1.0500
+Starkes ComK-Feedback	0.7576	0.0970	14.90	8.93	3.5000
+
+Korrelationskoeffizienten:
+bs vs Kompetenzdauer: -0.0824
+bs vs Anstiegszeit: -0.2749
+bs vs Initiierung: -0.8968
+
+bk vs Kompetenzdauer: 0.0776
+bk vs Anstiegszeit: 0.2951
+bk vs Initiierung: 0.9148

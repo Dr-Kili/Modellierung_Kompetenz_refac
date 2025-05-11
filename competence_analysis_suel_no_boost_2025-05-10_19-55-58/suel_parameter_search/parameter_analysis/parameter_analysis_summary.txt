@@ -1,0 +1,9 @@
+Zusammenfassung der Parameteranalyse
+================================
+
+Konfiguration	bs	bk	Kompetenzdauer	Anstiegszeit	Initiierung
+Standard	0.8200	0.0700	24.25	16.08	3.5000
+Low ComS Expression	0.7576	0.0960	17.19	11.15	4.7500
+High ComS Expression	0.8505	0.0540	22.68	14.54	2.2500
+Weak ComK Feedback	0.8505	0.0540	24.14	14.64	2.8000
+Strong ComK Feedback	0.7576	0.0970	21.49	14.46	4.7000

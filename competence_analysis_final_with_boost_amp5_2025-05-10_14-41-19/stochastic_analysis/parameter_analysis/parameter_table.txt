@@ -1,0 +1,153 @@
+Parameter Sets for Stochastic Simulations
+========================================
+
+1. Standard Parameters
+   Description: Similar to Standard
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.004
+   bk (ComK feedback): 0.07
+   bs (ComS expression): 0.82
+   k0 (ComK activation): 0.2
+   k1 (ComS repression): 0.222
+
+2. Excitable Config 1
+   Description: Low ComS Hill, High ComK Basal, High ComK Feedback
+   n (ComK Hill): 2
+   p (ComS Hill): 3
+   ak (ComK basal): 0.01038015011079596
+   bk (ComK feedback): 0.3388106633674551
+   bs (ComS expression): 0.7987574796268686
+   k0 (ComK activation): 0.6466240915991861
+   k1 (ComS repression): 0.6060738115820002
+
+3. Excitable Config 2
+   Description: High ComK Feedback
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.004001027108833752
+   bk (ComK feedback): 0.44795648106681824
+   bs (ComS expression): 0.7750025870289787
+   k0 (ComK activation): 0.5996733088133125
+   k1 (ComS repression): 0.4129117230408335
+
+4. Excitable Config 3
+   Description: High ComK Hill, High ComK Basal, High ComK Feedback
+   n (ComK Hill): 4
+   p (ComS Hill): 4
+   ak (ComK basal): 0.03365678488034941
+   bk (ComK feedback): 0.22943617198609217
+   bs (ComS expression): 0.688595686621221
+   k0 (ComK activation): 0.43383454345461575
+   k1 (ComS repression): 0.5717212570485262
+
+5. Excitable Config 4
+   Description: High ComK Hill, High ComK Basal, High ComK Feedback
+   n (ComK Hill): 3
+   p (ComS Hill): 5
+   ak (ComK basal): 0.029763827720683735
+   bk (ComK feedback): 0.40714975941804954
+   bs (ComS expression): 0.6686724758282725
+   k0 (ComK activation): 0.6178471352596904
+   k1 (ComS repression): 0.6095699117998863
+
+6. Excitable Config 5
+   Description: High ComK Hill, High ComK Feedback
+   n (ComK Hill): 3
+   p (ComS Hill): 5
+   ak (ComK basal): 0.003987585532714035
+   bk (ComK feedback): 0.19470235414161297
+   bs (ComS expression): 0.9204756219058519
+   k0 (ComK activation): 0.42679040664430923
+   k1 (ComS repression): 0.4839838485152221
+
+7. Excitable Config 6
+   Description: High ComK Hill, High ComK Basal, High ComK Feedback
+   n (ComK Hill): 4
+   p (ComS Hill): 5
+   ak (ComK basal): 0.015228290812039177
+   bk (ComK feedback): 0.24116062305860436
+   bs (ComS expression): 0.757755755245498
+   k0 (ComK activation): 0.3438702484767746
+   k1 (ComS repression): 0.39522157195691815
+
+8. Excitable Config 7
+   Description: High ComK Hill, High ComK Feedback
+   n (ComK Hill): 3
+   p (ComS Hill): 5
+   ak (ComK basal): 0.0034742594354063034
+   bk (ComK feedback): 0.3155273144914813
+   bs (ComS expression): 0.9412180084021537
+   k0 (ComK activation): 0.6165252950282709
+   k1 (ComS repression): 0.6891231691714921
+
+9. Excitable Config 8
+   Description: High ComK Hill, Low ComS Hill, High ComK Basal, High ComK Feedback
+   n (ComK Hill): 4
+   p (ComS Hill): 3
+   ak (ComK basal): 0.006966523506929658
+   bk (ComK feedback): 0.19646197725593417
+   bs (ComS expression): 0.7968987455693839
+   k0 (ComK activation): 0.386433358120807
+   k1 (ComS repression): 0.5916644306552292
+
+10. Excitable Config 9
+   Description: High ComK Hill, High ComK Basal, High ComK Feedback
+   n (ComK Hill): 4
+   p (ComS Hill): 5
+   ak (ComK basal): 0.007095827601717357
+   bk (ComK feedback): 0.3720177285949794
+   bs (ComS expression): 0.8013982234146371
+   k0 (ComK activation): 0.6339670186993144
+   k1 (ComS repression): 0.7009090859428058
+
+11. Excitable Config 10
+   Description: High ComK Hill, High ComK Basal, High ComK Feedback
+   n (ComK Hill): 5
+   p (ComS Hill): 4
+   ak (ComK basal): 0.014877943064345037
+   bk (ComK feedback): 0.21575974800847147
+   bs (ComS expression): 0.8950258761934344
+   k0 (ComK activation): 0.49028945186955547
+   k1 (ComS repression): 0.6319729280646027
+
+12. High ComK Basal (2x)
+   Description: High ComK Basal
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.008
+   bk (ComK feedback): 0.07
+   bs (ComS expression): 0.82
+   k0 (ComK activation): 0.2
+   k1 (ComS repression): 0.222
+
+13. High ComK Feedback (1.5x)
+   Description: High ComK Feedback
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.004
+   bk (ComK feedback): 0.10500000000000001
+   bs (ComS expression): 0.82
+   k0 (ComK activation): 0.2
+   k1 (ComS repression): 0.222
+
+14. High ComS Expression (1.5x)
+   Description: High ComS Expression
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.004
+   bk (ComK feedback): 0.07
+   bs (ComS expression): 1.23
+   k0 (ComK activation): 0.2
+   k1 (ComS repression): 0.222
+
+15. Low ComS Expression (0.75x)
+   Description: Low ComS Expression
+   n (ComK Hill): 2
+   p (ComS Hill): 5
+   ak (ComK basal): 0.004
+   bk (ComK feedback): 0.07
+   bs (ComS expression): 0.615
+   k0 (ComK activation): 0.2
+   k1 (ComS repression): 0.222
+

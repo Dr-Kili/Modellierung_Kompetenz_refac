@@ -1,0 +1,10 @@
+Stochastic Simulation Results
+==========================
+
+Parameter Set	Median Duration	Duration CV	Median Rise	Rise CV	Initiation
+Standard Parameters	17.24	0.78	11.37	0.82	3.4400
+Standard	16.20	0.83	10.81	0.90	3.1400
+Low ComS Expression	15.54	0.89	9.76	0.93	4.6000
+High ComS Expression	17.44	0.73	11.51	0.77	2.4200
+Weak ComK Feedback	16.70	0.92	10.68	0.95	2.5000
+Strong ComK Feedback	14.24	0.92	9.69	0.93	4.6600

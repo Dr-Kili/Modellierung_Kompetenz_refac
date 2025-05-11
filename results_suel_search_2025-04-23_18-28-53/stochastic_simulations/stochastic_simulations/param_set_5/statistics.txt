@@ -1,0 +1,21 @@
+Starkes ComK-Feedback
+=====================
+
+Number of simulations: 20
+Total competence events: 70
+Mean duration: 14.90
+Standard deviation of duration: 10.40
+Coefficient of variation (duration): 0.70
+Mean rise time: 8.93
+Standard deviation of rise time: 6.60
+Coefficient of variation (rise time): 0.74
+Probability of initiation: 3.5000
+
+Parameters:
+  ak: 0.004
+  bk: 0.09696969696969697
+  bs: 0.7575757575757576
+  k0: 0.2
+  k1: 0.222
+  n: 2
+  p: 5
